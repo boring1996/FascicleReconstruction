@@ -1,5 +1,5 @@
 SETUP:
-The code is organized as follows:
+Your files should be organized as follows:
 
 Code/ImageDirectory/Ground Truths
 
